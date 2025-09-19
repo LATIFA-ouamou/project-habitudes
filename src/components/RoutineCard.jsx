@@ -1,39 +1,6 @@
-//  import React from 'react'
-
-//  function RoutineCard() {
-//    return (
-//      <>
-//   <div className="bg-white rounded-lg shadow-md p-4 w-100 mt-10">
-  
-
-//    <div className="flex justify-between space-x-2">
-//      <h4 className="text-lg font-semibold text-gray-800 mb-4">Premier test</h4>
-//      <button className="bg-red-500 text-white px-3 py-1 rounded-full hover:bg-red-600 transition">Supprimer</button>
-//      <button className="bg-yellow-400 text-white px-3 py-1 rounded-full hover:bg-yellow-500 transition">Annuler</button>
-//      <button className="bg-green-500 text-white px-3 py-1 rounded-full hover:bg-green-600 transition">Faite</button>
-//    </div>
-//  </div>
-
-//  </>
-//    )
-//  }
-
-//  export default RoutineCard
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-// src/components/RoutineCard.jsx  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+// src/components/RoutineCard.jsx 
 import React from "react";
 
 function RoutineCard({ routine, userId, onDelete, onToggle }) {
